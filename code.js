@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Настройки анимации
             const opts = {
-                strings: [ 'ПОЗДРАВЛЯЮ', 'C ДНЁМ','РОЖДЕНИЯ!!'],
+                strings: ['C ДНЁМ','РОЖДЕНИЯ!!'],
                 charSize: 40,
                 charSpacing: 50,
                 lineHeight: 60,
